@@ -1,0 +1,7 @@
+git clone https://github.com/manon-rittling/git-begins.git 
+
+3 commandes push 
+
+git remote add origin https://github.com/manon-rittling/git-begins.git
+git branch -M main
+git push -u origin main
