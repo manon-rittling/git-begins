@@ -8,4 +8,8 @@ git push -u origin main
 commande pull doit etre dans le dossier depot sur le terminal
 git pull origin nom-de-la-branche 
 
+commande pour crée une branche :
+git branch nom-de-la-branche
 
+pour basculer de branche
+git checkout nom-de-la-branche
