@@ -5,5 +5,11 @@ git add "nom de fichier"
 git commit -m nom fichier depot 
 git push -u origin main
 
-commande pull 
-git pull origin main nom du dossier depot 
+commande pull doit etre dans le dossier depot sur le terminal
+git pull origin main 
+
+commande pour crée une branche :
+git branch nom-de-la-branche
+
+pour basculer de branche
+git checkout nom-de-la-branche
