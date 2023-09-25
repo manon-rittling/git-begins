@@ -1,7 +1,9 @@
 git clone https://github.com/manon-rittling/git-begins.git 
 
 3 commandes push 
-
-git remote add origin https://github.com/manon-rittling/git-begins.git
-git branch -M main
+git add "nom de fichier"
+git commit -m nom fichier depot 
 git push -u origin main
+
+commande pull 
+git pull origin main nom du dossier depot 
